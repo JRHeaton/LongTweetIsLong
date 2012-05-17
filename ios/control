@@ -1,0 +1,9 @@
+Package: com.apocolipse.longtweetislong
+Name: LongTweetIsLong
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Automatically extends long tweets via pastie.  No options to set, no buttons to press, just happens ;)
+Maintainer: apocolipse
+Author: Gojohnnyboi & Apocolipse
+Section: Tweaks
